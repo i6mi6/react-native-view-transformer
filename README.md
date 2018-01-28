@@ -1,5 +1,8 @@
 # react-native-view-transformer
 
+This fork was made to work with [**react-native-snap-carousel**](https://github.com/archriss/react-native-snap-carousel) (or any other carousel with swipe gestures). It only accepts pinch to zoom and up/down gestures, because others are in conflict with the carousel.
+
+
  A pure JavaScript RN component that makes **ANY** views transformable using gestures like pinch, double tap or pull.
 
 ![](Demo/demo.gif)
